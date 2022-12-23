@@ -62,4 +62,7 @@ def plot(tabulate(data_into_list)):
 	
 	plt.plot(S_N,duplicateID)
 	plt.show( )
+
+tabulate (data_into_list)
+plot(tabulate (data_into_list))
 	
